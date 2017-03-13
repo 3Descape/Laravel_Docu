@@ -1,0 +1,14 @@
+Note though, you need a few things like composer, node.js and optionally git installed, so that everything will work. You might also have a look on this site: https://laravel.com/docs/5.4/installation
+
+1. laravel new WebDesign
+insite the new WebDesign directors:
+2. git init
+3. git add .
+4. git commit -m "message"
+this is the link to a repository I created on github.com
+5. git remote add origin https://github.com/3Descape/WebDesign.git
+6. git remote -v
+7. git push origin master -f
+8. composer update
+10. npm install
+

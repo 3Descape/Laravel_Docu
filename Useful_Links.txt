@@ -1,0 +1,10 @@
+Atom - Code editor:
+https://atom.io/
+Git:
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+Php packages:
+https://packagist.org/
+Laravel documentation:
+https://laravel.com/docs/5.4
+Vue 2 documentation:
+https://vuejs.org/v2/guide/

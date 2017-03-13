@@ -1,0 +1,4 @@
+Start a testserver under localhost:8000
+php artisan serve
+Watches for changes in the files you specified in webpack.mix.js and compiles the assets once changed(Read more here: https://laravel.com/docs/5.4/mix):
+npm run watch
